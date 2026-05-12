@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BlobSimulation.ConsoleRunner/BlobSimulation.ConsoleRunner.csproj" />
+  <Project Path="BlobSimulation.Core/BlobSimulation.Core.csproj" />
+  <Project Path="BlobSimulation.Tests/BlobSimulation.Tests.csproj" Id="6e4d876c-7aa9-4e02-9959-31aaebd60caa" />
+</Solution>

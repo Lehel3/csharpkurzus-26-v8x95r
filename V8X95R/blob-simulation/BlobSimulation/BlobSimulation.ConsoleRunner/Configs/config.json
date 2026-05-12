@@ -1,0 +1,32 @@
+﻿{
+  "seed": 0,
+  "use_random_seed": false,
+  
+  "world_size_x": 20,
+  "world_size_y": 20,
+
+  "start_blob_count": 5,
+  "start_food_count": 5,
+
+  "max_steps": -1,
+
+
+
+  "initial_energy": 100.0,
+
+
+
+  "tick_rate": 20,
+
+  "food_spawn_rate": 1,
+  "max_food_count": 50,
+  
+  "blob_speed": 4.0,
+
+  "reproduce_chance": 0.05,
+  "reproduce_energy_threshold": 100.0,
+  "reproduce_energy_cost": 30.0,
+
+  "hunger_threshold": 100.0,
+  "energy_loss_factor": 1.0
+}

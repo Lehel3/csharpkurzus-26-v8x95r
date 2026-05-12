@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87cc91f49a350a4db6b830b0e6b3c84, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: Assembly-CSharp::SimulationConfigAsset
+  seed: 0
+  useRandomSeed: 0
+  worldSizeX: 20
+  worldSizeY: 20
+  startFoodCount: 5
+  startBlobCount: 5
+  maxSteps: -1
+  initialEnergy: 100
+  tickRate: 20
+  foodSpawnRate: 0.1
+  maxFoodCount: 50
+  blobSpeed: 4
+  reproduceChance: 0.05
+  reproduceEnergyThreshold: 100
+  reproduceEnergyCost: 30
+  hungerThreshold: 100
+  energyLossFactor: 1
